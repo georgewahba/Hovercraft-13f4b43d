@@ -1,0 +1,40 @@
+table{
+	border: 1px solid black;
+}
+thead,tfoot{
+	background-color: #E8E8E8;
+}
+th{
+	padding: 3em;
+}
+
+a{
+	color: black
+}
+#orange{
+	background-color: #FE8446;
+}
+#blue{
+	background-color: #63B1EB;
+}
+#purple{
+	background-color: #D085EF;
+}
+#yellow{
+	background-color: #D5DB4E;
+}
+#orange a{
+	color: green
+}
+#orange:hover {
+background-color: orange;
+}
+#blue:hover{
+	background-color: blue;
+}
+#purple:hover{
+	background-color: purple;
+}
+#yellow:hover{
+	background-color: yellow;
+}
